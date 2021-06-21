@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+}
+
+div{
+    margin-top: 17px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 26px;
+    margin-left: 26px;
+    background-color: lightpink;
+}
+img{
+    width: 120px;
+}
